@@ -1,0 +1,38 @@
+_repo: Madame-Margot-A-grotesque-legend-of-old-Charleston_69430
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bennett, John
+    birthdate: 1865
+    deathdate: 1956
+    gutenberg_agent_id: '4032'
+    url: http://www.gutenberg.org/2009/agents/4032
+    wikipedia: https://en.wikipedia.org/wiki/John_Bennett_(author)
+description: ''
+gutenberg_issued: '2022-11-27'
+identifiers:
+  gutenberg: '69430'
+  lccn: '21019652'
+language: en
+pgterms:marc904: https://archive.org/details/madamemargotgrot0000benn/page/n7/mode/2up
+pgterms:marc905: 20211026195239bennett
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: Charlene Taylor, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: The Century Co.,1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The bat series
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Charleston (S.C.) -- Fiction'
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcsh 'Happiness -- Fiction'
+- !lcsh 'Soul -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Madame Margot: A grotesque legend of old Charleston'
+url: http://www.gutenberg.org/ebooks/69430
